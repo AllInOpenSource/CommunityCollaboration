@@ -51,7 +51,7 @@ If you would like help in one of the 4 areas listed above, we ask that you commi
 
 To join this initiative and request help, you should:
 1. Open an issue in this repository using the template that's provided, and wait for a project to claim it.
-2. Coordinate with your partner project **in your repo**.
+2. Coordinate with your partner project **in your repo**. (If you'd like, you can link back to the issue in this repo for context about the change.)
 3. Close this issue when the work is complete.
 
 ---
